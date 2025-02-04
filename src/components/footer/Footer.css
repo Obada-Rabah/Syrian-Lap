@@ -1,0 +1,29 @@
+/* footer.css */
+
+.footer {
+    background-color: #556562;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem; /* Increase the size for better visibility */
+    transition: color 0.3s;
+  }
+  
+  .footer a:hover {
+    color: #151717;
+  }
+  
+  .icon{
+    color: white;
+  }
+
+  .icon:hover{
+    color: #151717;
+    transition: color 0.3s;
+
+  }

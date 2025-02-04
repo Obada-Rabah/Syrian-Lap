@@ -1,0 +1,90 @@
+/* Header.css */
+
+body, html {
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+.header {
+  background-color: #556562; /* Dark blue background */
+  color: white;
+  padding: 60px 20px; /* Reduced padding for better spacing */
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px; /* Reduced minimum height for the header */
+}
+
+.header-content {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.welcome-text {
+  text-align: center;
+}
+
+.welcome-text h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #e4f9f5; /* Yellow color for emphasis */
+}
+
+.welcome-text p {
+  color: #e4f9f5;
+  font-size: 1.2rem;
+  opacity: 0.9;
+  line-height: 1.6;
+}
+
+.cta-button {
+  display: inline-block;
+  background-color: #f1c40f; /* Yellow color */
+  color: #2c3e50; /* Dark blue text */
+  padding: 12px 30px;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.cta-button:hover {
+  background-color: #e67e22; /* Orange on hover */
+  transform: translateY(-3px);
+}
+
+.header-image {
+  max-width: 300px; /* Reduced max-width for the image */
+  width: 100%;
+  display: block;
+  margin: 0 auto; /* Center the image */
+}
+
+.header-image img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .header {
+    padding: 40px 20px; /* Further reduce padding for smaller screens */
+    min-height: 250px; /* Further reduce min-height for smaller screens */
+  }
+
+  .welcome-text h1 {
+    font-size: 2rem; /* Adjust font size for smaller screens */
+  }
+
+  .welcome-text p {
+    font-size: 1rem; /* Adjust font size for smaller screens */
+  }
+
+  .header-image {
+    max-width: 200px; /* Adjust max-width for smaller screens */
+  }
+}
