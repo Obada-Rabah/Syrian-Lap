@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Syrian-Lap/static/css/main.93969d0d.css",
+    "main.js": "/Syrian-Lap/static/js/main.0210fc5a.js",
+    "static/js/488.f5092cc9.chunk.js": "/Syrian-Lap/static/js/488.f5092cc9.chunk.js",
+    "index.html": "/Syrian-Lap/index.html",
+    "main.93969d0d.css.map": "/Syrian-Lap/static/css/main.93969d0d.css.map",
+    "main.0210fc5a.js.map": "/Syrian-Lap/static/js/main.0210fc5a.js.map",
+    "488.f5092cc9.chunk.js.map": "/Syrian-Lap/static/js/488.f5092cc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93969d0d.css",
+    "static/js/main.0210fc5a.js"
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image1": "/images/lap1.jpg",
+    "image2": "/images/lap2.jpg",
+    "name": "Dell 7540",
+    "status": "used",
+    "details": "i7-9th \n GPU : 4GB \n Ram : 16GB \n Storage : ssd 512GB",
+    "price": "3.800.000 S.P"
+  },
+  {
+    "id": 2,
+    "image1": "/images/lap1.jpg",
+    "image2": "/images/lap2.jpg",
+    "name": "HP 450 G5",
+    "status": "used",
+    "details": "i5-8th \n Ram : 8GB \n Storage : ssd 256GB",
+    "price": "1.800.000 S.P"
+  }
+]
