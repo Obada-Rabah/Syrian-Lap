@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/Syrian-Lap/static/css/main.93969d0d.css",
-    "main.js": "/Syrian-Lap/static/js/main.7a9438e1.js",
+    "main.css": "/Syrian-Lap/static/css/main.ac753441.css",
+    "main.js": "/Syrian-Lap/static/js/main.928a5ee1.js",
     "static/js/488.f5092cc9.chunk.js": "/Syrian-Lap/static/js/488.f5092cc9.chunk.js",
-    "static/media/lap2.jpg": "/Syrian-Lap/static/media/lap2.51fe92348bcdcc4b8829.jpg",
-    "static/media/lap1.jpg": "/Syrian-Lap/static/media/lap1.038e510bf36360ddb3ab.jpg",
+    "static/media/HP 450 G5-1.png": "/Syrian-Lap/static/media/HP 450 G5-1.14f7b8a8e6a10201fac6.png",
+    "static/media/DELL 7540-1.png": "/Syrian-Lap/static/media/DELL 7540-1.766b08427a12289c26d1.png",
+    "static/media/DELL 5500-1.png": "/Syrian-Lap/static/media/DELL 5500-1.d3fe6a67afb637e6d339.png",
+    "static/media/DELL 5580-1.png": "/Syrian-Lap/static/media/DELL 5580-1.78142eb71f40a65d3b93.png",
+    "static/media/DELL 7540-2.png": "/Syrian-Lap/static/media/DELL 7540-2.eae75f7f4f74d988a5da.png",
+    "static/media/DELL 5591-1.png": "/Syrian-Lap/static/media/DELL 5591-1.34acbcedc42da04c0bbd.png",
+    "static/media/DELL 5500-2.png": "/Syrian-Lap/static/media/DELL 5500-2.13233c04a0ba4df616df.png",
+    "static/media/DELL 5591-2.png": "/Syrian-Lap/static/media/DELL 5591-2.99d445b1090518de3e34.png",
+    "static/media/DELL 5580-2.png": "/Syrian-Lap/static/media/DELL 5580-2.142f34b8c4bac615fc1a.png",
+    "static/media/HP 450 G5-2.png": "/Syrian-Lap/static/media/HP 450 G5-2.0d2aafc1e6fbca2e86c1.png",
     "static/media/laptop-header.png": "/Syrian-Lap/static/media/laptop-header.22b9ba3f0abe8bd4d953.png",
     "index.html": "/Syrian-Lap/index.html",
-    "main.93969d0d.css.map": "/Syrian-Lap/static/css/main.93969d0d.css.map",
-    "main.7a9438e1.js.map": "/Syrian-Lap/static/js/main.7a9438e1.js.map",
+    "main.ac753441.css.map": "/Syrian-Lap/static/css/main.ac753441.css.map",
+    "main.928a5ee1.js.map": "/Syrian-Lap/static/js/main.928a5ee1.js.map",
     "488.f5092cc9.chunk.js.map": "/Syrian-Lap/static/js/488.f5092cc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93969d0d.css",
-    "static/js/main.7a9438e1.js"
+    "static/css/main.ac753441.css",
+    "static/js/main.928a5ee1.js"
   ]
 }
