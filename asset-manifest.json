@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Syrian-Lap/static/css/main.ac753441.css",
-    "main.js": "/Syrian-Lap/static/js/main.928a5ee1.js",
+    "main.js": "/Syrian-Lap/static/js/main.7fbca1e3.js",
     "static/js/488.f5092cc9.chunk.js": "/Syrian-Lap/static/js/488.f5092cc9.chunk.js",
     "static/media/HP 450 G5-1.png": "/Syrian-Lap/static/media/HP 450 G5-1.14f7b8a8e6a10201fac6.png",
     "static/media/DELL 7540-1.png": "/Syrian-Lap/static/media/DELL 7540-1.766b08427a12289c26d1.png",
@@ -16,11 +16,11 @@
     "static/media/laptop-header.png": "/Syrian-Lap/static/media/laptop-header.22b9ba3f0abe8bd4d953.png",
     "index.html": "/Syrian-Lap/index.html",
     "main.ac753441.css.map": "/Syrian-Lap/static/css/main.ac753441.css.map",
-    "main.928a5ee1.js.map": "/Syrian-Lap/static/js/main.928a5ee1.js.map",
+    "main.7fbca1e3.js.map": "/Syrian-Lap/static/js/main.7fbca1e3.js.map",
     "488.f5092cc9.chunk.js.map": "/Syrian-Lap/static/js/488.f5092cc9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac753441.css",
-    "static/js/main.928a5ee1.js"
+    "static/js/main.7fbca1e3.js"
   ]
 }
