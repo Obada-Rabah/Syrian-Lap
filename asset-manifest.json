@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Syrian-Lap/static/css/main.ac753441.css",
-    "main.js": "/Syrian-Lap/static/js/main.7fbca1e3.js",
+    "main.js": "/Syrian-Lap/static/js/main.c209daf6.js",
     "static/js/488.f5092cc9.chunk.js": "/Syrian-Lap/static/js/488.f5092cc9.chunk.js",
     "static/media/HP 450 G5-1.png": "/Syrian-Lap/static/media/HP 450 G5-1.14f7b8a8e6a10201fac6.png",
     "static/media/DELL 7540-1.png": "/Syrian-Lap/static/media/DELL 7540-1.766b08427a12289c26d1.png",
@@ -9,6 +9,8 @@
     "static/media/DELL 5580-1.png": "/Syrian-Lap/static/media/DELL 5580-1.78142eb71f40a65d3b93.png",
     "static/media/DELL 7540-2.png": "/Syrian-Lap/static/media/DELL 7540-2.eae75f7f4f74d988a5da.png",
     "static/media/DELL 5591-1.png": "/Syrian-Lap/static/media/DELL 5591-1.34acbcedc42da04c0bbd.png",
+    "static/media/DELL 3570-2.png": "/Syrian-Lap/static/media/DELL 3570-2.e805ba03f2b55ab12bbe.png",
+    "static/media/DELL 3570-1.png": "/Syrian-Lap/static/media/DELL 3570-1.a911fa66fb1468aed12a.png",
     "static/media/DELL 5500-2.png": "/Syrian-Lap/static/media/DELL 5500-2.13233c04a0ba4df616df.png",
     "static/media/DELL 5591-2.png": "/Syrian-Lap/static/media/DELL 5591-2.99d445b1090518de3e34.png",
     "static/media/DELL 5580-2.png": "/Syrian-Lap/static/media/DELL 5580-2.142f34b8c4bac615fc1a.png",
@@ -16,11 +18,11 @@
     "static/media/laptop-header.png": "/Syrian-Lap/static/media/laptop-header.22b9ba3f0abe8bd4d953.png",
     "index.html": "/Syrian-Lap/index.html",
     "main.ac753441.css.map": "/Syrian-Lap/static/css/main.ac753441.css.map",
-    "main.7fbca1e3.js.map": "/Syrian-Lap/static/js/main.7fbca1e3.js.map",
+    "main.c209daf6.js.map": "/Syrian-Lap/static/js/main.c209daf6.js.map",
     "488.f5092cc9.chunk.js.map": "/Syrian-Lap/static/js/488.f5092cc9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac753441.css",
-    "static/js/main.7fbca1e3.js"
+    "static/js/main.c209daf6.js"
   ]
 }
